@@ -13,7 +13,7 @@ What factors are most strongly associated with life expectancy?
 How do healthcare investment and child health outcomes influence longevity?
 
 ## Objective
-The project aims to:
+The aims of this project is to:
 Analyze global life expectancy trends between 2000 and 2015.
 Compare life expectancy across countries and development status.
 Identify key drivers of life expectancy such as GDP, schooling, adult mortality, HIV/AIDS, and income composition.
