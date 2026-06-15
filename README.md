@@ -12,4 +12,132 @@ How do developed and developing countries compare?
 What factors are most strongly associated with life expectancy?
 How do healthcare investment and child health outcomes influence longevity?
 
-## Project Objective
+## Objective
+The project aims to:
+Analyze global life expectancy trends between 2000 and 2015.
+Compare life expectancy across countries and development status.
+Identify key drivers of life expectancy such as GDP, schooling, adult mortality, HIV/AIDS, and income composition.
+Examine the role of healthcare expenditure, vaccination coverage, and child nutrition.
+Provide data-driven insights into global health inequalities.
+
+## Dataset Information
+**Time Period**: 2000–2015
+**Key Variables**
+Country
+Year
+Status (Developed/Developing)
+Life Expectancy
+Adult Mortality
+Infant Deaths
+Alcohol Consumption
+Percentage Expenditure
+Hepatitis B 
+Measles 
+BMI
+Under-Five Deaths
+Polio 
+Total Expenditure
+Diphtheria 
+HIV/AIDS
+GDP
+Population
+Thinness (1–19 Years)
+Thinness (5–9 Years)
+Income Composition of Resources
+Schooling
+
+## Data Cleaning
+The dataset contained missing values across several variables, including GDP, Life Expectancy,Population, Hepatitis B, Schooling, and Total Expenditure.
+
+**Data Quality Approach**
+Missing values were retained as nulls.
+No imputation was performed to avoid introducing assumptions.
+Aggregate calculations automatically excluded blank values.
+Data types were validated before analysis.
+
+## Dashboard Structure
+Page 1: Global Life Expectancy 
+
+
+
+**Focus**:
+Global life expectancy
+Country comparison
+Developed vs Developing countries
+Geographic distribution of life expectancy
+
+
+**Visuals**:
+KPI Cards
+Life Expectancy Trend by Year
+Top 10 Countries by Life Expectancy
+Bottom 10 Countries by Life Expectancy
+Life Expectancy by Status
+GDP vs Life Expectancy
+Global Map
+
+Page 2: Drivers of Life Expectancy
+
+
+
+**Focus**:
+Socioeconomic and health-related factors associated with longevity
+
+
+
+**Visuals**:
+Schooling vs Life Expectancy
+Adult Mortality vs Life Expectancy
+HIV/AIDS vs Life Expectancy
+Income Composition of Resources vs Life Expectancy
+
+Page 3: Health Investment & Child Nutrition
+
+
+
+**Focus**:
+Healthcare spending
+Vaccination coverage
+Child mortality
+
+
+**Visuals**:
+Health Expenditure vs Life Expectancy
+Vaccination Coverage Analysis
+infact Deaths vs Life Expectancy
+Thinness vs Life Expectancy
+BMI vs Life Expectancy
+Top 10 Thinness Countries
+
+## Key Insights
+1. Life Expectancy Improved Over Time
+Global life expectancy generally increased between 2000 and 2015, indicating improvements in healthcare access and living conditions.
+2. Developed Countries Outperformed Developing Countries
+Developed countries consistently recorded higher life expectancy, highlighting disparities in healthcare, education, and economic development.
+3. Adult Mortality Had a Strong Negative Relationship with Life Expectancy
+Countries with higher adult mortality rates tended to have significantly lower life expectancy.
+4. Education Matters
+Higher levels of schooling were associated with longer life expectancy, emphasizing the importance of education in improving health outcomes.
+5. Economic Prosperity Supports Longevity
+Countries with higher GDP and stronger income composition generally exhibited longer lifespans.
+6. HIV/AIDS Reduced Life Expectancy
+A higher HIV/AIDS burden was associated with lower life expectancy across many countries.
+7. Child Health Influences Longevity
+Countries with high under-five mortality and child malnutrition generally recorded lower life expectancy.
+
+## Tools Used
+Power BI : For Visualization
+
+
+Power Query : for cleaning and structuring the dataset
+
+
+DAX : for calcuations
+
+## Conclusion
+The analysis demonstrates that life expectancy is influenced by a combination of economic, educational, healthcare, and social factors. Countries with stronger healthcare systems, higher educational attainment, lower mortality rates, and better socioeconomic conditions consistently achieved longer lifespans.
+The findings highlight the importance of sustained investment in healthcare, education, disease prevention, and child welfare to improve population health outcomes and reduce global health inequalities.
+
+
+
+
