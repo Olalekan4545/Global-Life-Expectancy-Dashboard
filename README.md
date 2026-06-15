@@ -140,7 +140,7 @@ The findings highlight the importance of sustained investment in healthcare, edu
 
 
 ## 📂File Included
-Global_Life_Expectancy_dashboard.pbix / [`Life Expectancy Dashboard.pbix`](Life Expectancy Dashboard.pbix) 
+Global_Life_Expectancy_dashboard.pbix / [`Life_Expectancy_Dashboard.pbix`](Life_Expectancy_Dashboard.pbix) 
 
 
 ├──  Global_life_Expectancy_dataset.CSV
@@ -183,7 +183,7 @@ Global_Life_Expectancy_dashboard.pbix / [`Life Expectancy Dashboard.pbix`](Life 
 
 
 ## How to Use
-1. Download the .pbix file from the dashboard folder [`Life Expectancy Dashboard.pbix`](Life Expectancy Dashboard.pbix)
+1. Download the .pbix file from the dashboard folder [`Life_Expectancy_Dashboard.pbix`](Life_Expectancy_Dashboard.pbix)
 2. Open with Power BI Desktop [Power BI Desktop](https://powerbi.microsoft.com/).
 3.  Use slicers to explore insights across different dimensions
 
