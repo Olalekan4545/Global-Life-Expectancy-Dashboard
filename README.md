@@ -139,5 +139,61 @@ The analysis demonstrates that life expectancy is influenced by a combination of
 The findings highlight the importance of sustained investment in healthcare, education, disease prevention, and child welfare to improve population health outcomes and reduce global health inequalities.
 
 
+## 📂File Included
+Global_Life_Expectancy_dashboard.pbix / [`Life Expectancy Dashboard.pbix`](Life Expectancy Dashboard.pbix) 
+
+
+├──  Global_life_Expectancy_dataset.CSV
+
+│        └── data/[`Life Expectancy Data.csv`](Life Expectancy Data.csv) 
+
+│ 
+
+├── Global_Life_dashboard.png
+
+
+│   └── Page 1/[`Global_Life_Expectancy_(Page1).png`](Global_Life_Expectancy_(Page1).png)
+
+│
+
+│   └── Page 2/[`Drivers_of_Life_Expectancy_(Page2).png`](Drivers_of_Life_Expectancy_(Page2).png)
+
+│
+
+│   └── Page 3/[`Health_Investment_and_Child_Nutrition_(page3).png`](Health_Investment_and_Child_Nutrition_(page3).png)
+
+│
+├── images.png
+
+
+│   └── Images/[`Adult_Mortality_vs_Life_Expectancy.png`](Adult_Mortality_vs_Life_Expectancy.png) / [`Countries_with_Low_Life_Expectancy.png`](Countries_with_Low_Life_Expectancy.png) / [`HIV_vs_Life_Expectancy.png`](HIV_vs_Life_Expectancy.png) / [`Life_Expectancy_Trend.png`](Life_Expectancy_Trend.png) / [`Schooling_vs_Life_Expectancy.png`](Schooling_vs_Life_Expectancy.png) / [`Top_10_Countries_with_High_Life_Expectancy.png`](Top_10_Countries_with_High_Life_Expectancy.png) / [`Vaccination_Coverage_Comparison_Between_Developing_and_Develop_Countries.png`](Vaccination_Coverage_Comparison_Between_Developing_and_Develop_Countries.png) / [`Vaccination_Tread_Over_Year.png`](Vaccination_Tread_Over_Year.png)
+
+│
+
+├── Insight.md
+
+│     └── Insights/ [`Insights.md`](Insights.md) 
+
+│
+
+
+└── README.md / [`README.md`](README.md) 
+
+
+
+
+## How to Use
+1. Download the .pbix file from the dashboard folder [`Life Expectancy Dashboard.pbix`](Life Expectancy Dashboard.pbix)
+2. Open with Power BI Desktop [Power BI Desktop](https://powerbi.microsoft.com/).
+3.  Use slicers to explore insights across different dimensions
+
+   
+
+### 👨‍💻 About Me
+I am a Data Analyst specializing in Excel and Powerbi. I love turning messy data into clean and actionable stories.
+
+🔗 [Linkdin_Profile](https://linkedin.com/in/afolakemi-olalekan-145174253)
+
+
 
 
