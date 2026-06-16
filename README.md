@@ -20,31 +20,32 @@ Identify key drivers of life expectancy such as GDP, schooling, adult mortality,
 Examine the role of healthcare expenditure, vaccination coverage, and child nutrition.
 Provide data-driven insights into global health inequalities.
 
+
+
 ## Dataset Information
-**Time Period**: 2000–2015
-**Key Variables**
-Country
-Year
-Status (Developed/Developing)
-Life Expectancy
-Adult Mortality
-Infant Deaths
-Alcohol Consumption
-Percentage Expenditure
-Hepatitis B 
-Measles 
-BMI
-Under-Five Deaths
-Polio 
-Total Expenditure
-Diphtheria 
-HIV/AIDS
-GDP
-Population
-Thinness (1–19 Years)
-Thinness (5–9 Years)
-Income Composition of Resources
-Schooling
+- **Time Period**: 2000–2015
+- Country
+- Year
+- Status (Developed/Developing)
+- Life Expectancy
+- Adult Mortality
+- Infant Deaths
+- Alcohol Consumption
+- Percentage Expenditure
+- Hepatitis B
+- Measles
+- BMI
+- Under-Five Deaths
+- Polio
+- Total Expenditure
+- Diphtheria
+- HIV/AIDS
+- GDP
+- Population
+- Thinness (1–19 Years)
+- Thinness (5–9 Years)
+- Income Composition of Resources
+- Schooling
 
 ## Data Cleaning
 The dataset contained missing values across several variables, including GDP, Life Expectancy,Population, Hepatitis B, Schooling, and Total Expenditure.
@@ -56,7 +57,8 @@ Aggregate calculations automatically excluded blank values.
 Data types were validated before analysis.
 
 ## Dashboard Structure
-Page 1: Global Life Expectancy 
+
+**Page 1: Global Life Expectancy**
 
 ![image](Global_Life_Expectancy_(Page1).png)
 
@@ -76,12 +78,6 @@ Page 1: Global Life Expectancy
 Global life expectancy generally increased between 2000 and 2015, indicating improvements in healthcare access and living conditions.
 
 ![image](Life_Expectancy_Trend.png)
-
-
-
-
-
-
 
 
 
@@ -112,13 +108,36 @@ Sierra Leone, the Central African Republic, and other bottom-ranking countries r
 
 
 
-Life Expectancy by Status
-GDP vs Life Expectancy
-Global Map
+**Life Expectancy by Status**
 
-Page 2: Drivers of Life Expectancy
 
-![image](Drivers_of_Life_Expectancy_(Page2).png)
+
+![image](Life_Expectancy_by_Status.png)
+
+
+
+
+**GDP vs Life Expectancy**
+
+
+![image](Countries_GDP_Vs_Life_Expectancy.png)
+
+
+
+
+**Global Map**
+
+
+
+![image](Geographic_Distribution_of_Life_Expectancy.png)
+
+
+
+**Page 2: Drivers of Life Expectancy**
+
+
+
+![image](Drivers_of_Life_Expectancy.png)
 
 
 
@@ -129,19 +148,46 @@ Socioeconomic and health-related factors associated with longevity
 
 
 
-**Visuals**:
-Schooling vs Life Expectancy
+**Visuals**
+
+
+**Schooling vs Life Expectancy**
+
+
+
 ![image](Schooling_vs_Life_Expectancy.png)
 
-Adult Mortality vs Life Expectancy
+
+
+
+**Adult Mortality vs Life Expectancy**
+
+
 ![image](Adult_Mortality_vs_Life_Expectancy.png) 
 
-HIV/AIDS vs Life Expectancy
+
+
+
+**HIV/AIDS vs Life Expectancy**
+
+
 ![image](HIV_vs_Life_Expectancy.png)
 
 
 
-Page 3: Health Investment & Child Nutrition
+
+**Income Composition of Resources vs Life Expectancy**
+
+
+
+![image](Income_Composition_vs_Life_Expectancy.png)
+
+
+
+**Page 3: Health Investment & Child Nutrition**
+
+
+
 
 ![image](Health_Investment_and_Child_Nutrition_(page3).png)
 
@@ -154,13 +200,48 @@ Page 3: Health Investment & Child Nutrition
 - Child mortality
 
 
-**Visuals**:
-Health Expenditure vs Life Expectancy
-Vaccination Coverage Analysis
-infact Deaths vs Life Expectancy
-Thinness vs Life Expectancy
-BMI vs Life Expectancy
-Top 10 Thinness Countries
+**Visuals**
+
+**Health Expenditure vs Life Expectancy**
+
+
+
+![image](Health_Expenditure_vs_Life_Expectancy.png)
+
+
+**Vaccination Coverage Analysis by Year**
+
+
+![image](Vaccination_Tread_Over_Year.png)
+
+**Vaccination Coverage Comparison Between Developing and Develop Countries**
+
+
+
+![image](Vaccination_Coverage_Comparison_Between_Developing_and_Develop_Countries.png)
+
+
+**infact Deaths vs Life Expectancy**
+
+
+
+![image](Infact_Dealth_vs_Life_expectancy.png)
+
+
+
+**Top 10 Thinness Countries**
+
+
+
+![image](Top_10_Highest_Thinnest_Countries.png)
+
+
+**BMI by Status**
+
+
+
+![image](BMI_by_Status.png)
+
 
 ## Key Insights
 
@@ -192,6 +273,8 @@ The findings highlight the importance of sustained investment in healthcare, edu
 
 
 ## 📂File Included
+
+
 Global_Life_Expectancy_dashboard.pbix / [`Life_Expectancy_Dashboard.pbix`](Life_Expectancy_Dashboard.pbix) 
 
 
@@ -201,12 +284,6 @@ Global_Life_Expectancy_dashboard.pbix / [`Life_Expectancy_Dashboard.pbix`](Life_
 
 
 
-├── images.png
-
-
-│   └── Images/ [`Vaccination_Coverage_Comparison_Between_Developing_and_Develop_Countries.png`](Vaccination_Coverage_Comparison_Between_Developing_and_Develop_Countries.png) / [`Vaccination_Tread_Over_Year.png`](Vaccination_Tread_Over_Year.png)
-
-│
 
 ├── Insight.md
 
