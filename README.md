@@ -58,47 +58,100 @@ Data types were validated before analysis.
 ## Dashboard Structure
 Page 1: Global Life Expectancy 
 
+![image](Global_Life_Expectancy_(Page1).png)
+
 
 
 **Focus**:
-Global life expectancy
-Country comparison
-Developed vs Developing countries
-Geographic distribution of life expectancy
+- Global life expectancy
+- Country comparison
+- Developed vs Developing countries
+- Geographic distribution of life expectancy.
 
 
-**Visuals**:
-KPI Cards
-Life Expectancy Trend by Year
-Top 10 Countries by Life Expectancy
-Bottom 10 Countries by Life Expectancy
+
+**Life Expectancy Trend by Year**
+
+
+Global life expectancy generally increased between 2000 and 2015, indicating improvements in healthcare access and living conditions.
+
+![image](Life_Expectancy_Trend.png)
+
+
+
+
+
+
+
+
+
+
+
+**Top 10 Countries by Life Expectancy**
+
+
+
+
+Japan, Sweden, and other top-performing countries consistently recorded the highest life expectancy levels, indicating strong healthcare systems, higher standards of living, and favorable socioeconomic conditions that support longer lifespans.
+
+
+![image](Top_10_Countries_with_High_Life_Expectancy.png) 
+
+
+
+
+
+**Bottom 10 Countries by Life Expectancy**
+
+
+
+Sierra Leone, the Central African Republic, and other bottom-ranking countries recorded the lowest life expectancy levels, indicating significant health and development challenges that limit population longevity.
+
+![image](Countries_with_Low_Life_Expectancy.png)
+
+
+
+
 Life Expectancy by Status
 GDP vs Life Expectancy
 Global Map
 
 Page 2: Drivers of Life Expectancy
 
+![image](Drivers_of_Life_Expectancy_(Page2).png)
 
 
-**Focus**:
+
+**Focus**
+
+
 Socioeconomic and health-related factors associated with longevity
 
 
 
 **Visuals**:
 Schooling vs Life Expectancy
+![image](Schooling_vs_Life_Expectancy.png)
+
 Adult Mortality vs Life Expectancy
+![image](Adult_Mortality_vs_Life_Expectancy.png) 
+
 HIV/AIDS vs Life Expectancy
-Income Composition of Resources vs Life Expectancy
+![image](HIV_vs_Life_Expectancy.png)
+
+
 
 Page 3: Health Investment & Child Nutrition
 
+![image](Health_Investment_and_Child_Nutrition_(page3).png)
 
 
-**Focus**:
-Healthcare spending
-Vaccination coverage
-Child mortality
+
+**Focus**
+
+- Healthcare spending
+- Vaccination coverage
+- Child mortality
 
 
 **Visuals**:
@@ -110,8 +163,7 @@ BMI vs Life Expectancy
 Top 10 Thinness Countries
 
 ## Key Insights
-1. Life Expectancy Improved Over Time
-Global life expectancy generally increased between 2000 and 2015, indicating improvements in healthcare access and living conditions.
+
 2. Developed Countries Outperformed Developing Countries
 Developed countries consistently recorded higher life expectancy, highlighting disparities in healthcare, education, and economic development.
 3. Adult Mortality Had a Strong Negative Relationship with Life Expectancy
@@ -147,26 +199,12 @@ Global_Life_Expectancy_dashboard.pbix / [`Life_Expectancy_Dashboard.pbix`](Life_
 
 │        └── data/[`Life_Expectancy_Data.csv`](Life_Expectancy_Data.csv) 
 
-│ 
-
-├── Global_Life_dashboard.png
 
 
-│   └── Page 1/[`Global_Life_Expectancy_(Page1).png`](Global_Life_Expectancy_(Page1).png)
-
-│
-
-│   └── Page 2/[`Drivers_of_Life_Expectancy_(Page2).png`](Drivers_of_Life_Expectancy_(Page2).png)
-
-│
-
-│   └── Page 3/[`Health_Investment_and_Child_Nutrition_(page3).png`](Health_Investment_and_Child_Nutrition_(page3).png)
-
-│
 ├── images.png
 
 
-│   └── Images/[`Adult_Mortality_vs_Life_Expectancy.png`](Adult_Mortality_vs_Life_Expectancy.png) / [`Countries_with_Low_Life_Expectancy.png`](Countries_with_Low_Life_Expectancy.png) / [`HIV_vs_Life_Expectancy.png`](HIV_vs_Life_Expectancy.png) / [`Life_Expectancy_Trend.png`](Life_Expectancy_Trend.png) / [`Schooling_vs_Life_Expectancy.png`](Schooling_vs_Life_Expectancy.png) / [`Top_10_Countries_with_High_Life_Expectancy.png`](Top_10_Countries_with_High_Life_Expectancy.png) / [`Vaccination_Coverage_Comparison_Between_Developing_and_Develop_Countries.png`](Vaccination_Coverage_Comparison_Between_Developing_and_Develop_Countries.png) / [`Vaccination_Tread_Over_Year.png`](Vaccination_Tread_Over_Year.png)
+│   └── Images/ [`Vaccination_Coverage_Comparison_Between_Developing_and_Develop_Countries.png`](Vaccination_Coverage_Comparison_Between_Developing_and_Develop_Countries.png) / [`Vaccination_Tread_Over_Year.png`](Vaccination_Tread_Over_Year.png)
 
 │
 
