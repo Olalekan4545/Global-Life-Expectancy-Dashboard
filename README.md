@@ -1,16 +1,47 @@
 # Global-Life-Expectancy-Dashboard
 
-# Overview
+### PowerBi Report
+
 Life expectancy is one of the most important indicators of a nation's health and development. It reflects the combined impact of healthcare access, economic conditions, education, disease burden, nutrition, and public health policies.This project analyzes global life expectancy trends from 2000 to 2015 using data from the World Health Organization (WHO). The goal is to identify patterns in life expectancy across countries and investigate the factors that influence longevity.The analysis was conducted using Power BI and focuses on life expectancy trends, socioeconomic drivers, healthcare investment, and child health indicators.
+
+ </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://app.powerbi.com/view?r=eyJrIjoiZDQxNmE3N2ItMzM2Yi00MmFiLWE3NzktYTQ3ZWYzYjBmNWYzIiwidCI6ImUwYjEzY2QwLTY1MjItNDFmNS05MjFlLTg5OGRmMTBkZGIzMiJ9">View Live Dashboard</a></td>   |      </tr>
+    <tr>
+      <td>📃</td>
+      <td><a href="https://drive.google.com/file/d/1WgS58LyHl22u_3CLZQ4s-1X9JIAuwH5A/view?usp=sharing">Dataset</a></td> |       <tr>
+      <td>👤</td>
+      <td><a href="https://linkedin.com/in/afolakemi-olalekan-145174253">Linkdin Profile</a></td>   |   </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://olalekan4545.github.io/Port-folio/">Portfolio</a></td>
+
+      
+
+
+## ![image](Global_Life_Expectancy.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Problem Statement
 Despite significant improvements in global healthcare, life expectancy continues to vary widely across countries. Understanding the factors associated with longer and shorter lifespans can help policymakers and health organizations make informed decisions.
 This project seeks to answer:
-How has life expectancy changed globally over time?
-Which countries have the highest and lowest life expectancy?
-How do developed and developing countries compare?
-What factors are most strongly associated with life expectancy?
-How do healthcare investment and child health outcomes influence longevity?
+- How has life expectancy changed globally over time?
+- Which countries have the highest and lowest life expectancy?
+- How do developed and developing countries compare?
+- What factors are most strongly associated with life expectancy?
+- How do healthcare investment and child health outcomes influence longevity?
 
 ## Objective
 The aims of this project is to:
