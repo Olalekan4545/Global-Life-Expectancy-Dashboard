@@ -18,9 +18,22 @@ Countries with higher under-five mortality and higher rates of child thinness ge
 Countries with stronger healthcare investment and higher vaccination coverage generally achieved better life expectancy outcomes.
 
 # Recommendations
-- Increase investment in healthcare infrastructure.
-- Expand access to quality education.
-- Strengthen vaccination programs.
-- Improve child nutrition and maternal health services.
-- Continue efforts to reduce HIV/AIDS-related mortality.
-- Prioritize interventions in countries with high adult mortality.
+
+ 1. **Strengthen Healthcare Systems in Developing Countries**
+The 12-year life expectancy gap between developed and developing countries highlights the need for greater investment in healthcare infrastructure, medical personnel, and access to quality healthcare services.
+2. **Reduce Adult Mortality Through Preventive Healthcare**
+Since developing countries recorded significantly higher adult mortality rates, governments and health organizations should prioritize disease prevention, early diagnosis, health education, and access to treatment to reduce premature deaths.
+3. **Expand and Sustain Immunization Programs**
+Although vaccination coverage has improved over time, developing countries still lag behind developed countries. Expanding vaccine access and maintaining high immunization coverage can further reduce preventable diseases and improve health outcomes.
+4. **Invest in Education and Human Development**
+The positive relationship between schooling, income composition of resources, and life expectancy suggests that investments in education and socioeconomic development can contribute to longer and healthier lives.
+5. **Improve Child Health and Nutrition**
+Countries with lower nutritional indicators and higher child mortality should prioritize maternal healthcare, child nutrition programs, and food security initiatives to improve long-term population health.
+6. **Promote Inclusive Economic Growth**
+The positive association between GDP and life expectancy indicates that economic development can support better healthcare access, living standards, and health outcomes when growth benefits the broader population.
+
+
+# Conclusion
+This analysis revealed significant differences in life expectancy across countries and development groups. Developed countries achieved an average life expectancy of 79 years compared to 67 years in developing countries, highlighting persistent global health inequalities. The findings show that factors such as lower adult mortality, stronger vaccination coverage, better nutrition, higher educational attainment, and greater economic development are associated with longer life expectancy. Furthermore, the steady increase in vaccination coverage over time reflects progress in global public health efforts. Overall, the results emphasize the importance of sustained investment in healthcare, education, disease prevention, and socioeconomic development to improve longevity and reduce disparities in health outcomes worldwide.
+
+
