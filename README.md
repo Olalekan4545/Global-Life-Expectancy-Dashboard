@@ -147,13 +147,13 @@ Note: Missing values exist in some variables; however, all 2,938 records were re
 
 
 # Report Pages
-1. 🌐 Global Life Expectancy.
+1. # 🌐 Global Life Expectancy.
    
 This page provide a comprehensive understanding of global life expectancy patterns, identify countries with the highest and lowest longevity, examine how life expectancy has changed over time, assess the influence of economic development, and highlight disparities between developed and developing nations. Together, they establish a foundation for understanding global health outcomes.
 
 ![image](Global_Life_Expectancy_(Page1).png)
 
-Key Visuals:
+### Key Visuals:
 - Top 10 Countries by Life Expectancy
 - Bottom 10 Countries by Life Expectancy
 - Life Expectancy Trend by Year
@@ -161,12 +161,12 @@ Key Visuals:
 - GDP vs Life Expectancy
 - Global Map
 
-2. 🔍 Drivers of Life Expectancy
+2. # 🔍 Drivers of Life Expectancy
 This page investigates the key health, educational, and economic factors that influence life expectancy across countries.
 
 ![image](Drivers_of_Life_Expectancy.png)
 
-Key Visuals:
+### Key Visuals:
 - Schooling vs Life Expectancy
 - HIv/Aids vs Life Expectancy
 - Alcholic vs Life Expectancy
@@ -175,11 +175,11 @@ Key Visuals:
 - Income of Composition vs Life Expectancy
 - Conntries GDp vs Life Expectancy
 
-3. 🥇 ❤️‍🩹  Health Investment & Child Nutrition
+3. # 🥇❤️‍🩹  Health Investment & Child Nutrition
 This page explores how healthcare investment, vaccination coverage, child survival, and nutritional health influence life expectancy and overall population well-being across countries.
 ![image](Health_Investment_and_Child_Nutrition_(page3).png)
 
-Key Visuals:
+### Key Visuals:
 - Vaccination Coverage Trends
 - BMI by Status
 - Vaccination Coverage Comparison by Developed and Developing Nations
