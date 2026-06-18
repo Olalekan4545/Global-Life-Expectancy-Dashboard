@@ -20,7 +20,7 @@ Life expectancy is one of the most important indicators of a nation's health and
       
 
 
-## ![image](Global_Life_Expectancy.png)
+## ![image](Global_Life_Expectancy_Dashboard.png)
 
 
 
