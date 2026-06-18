@@ -146,7 +146,20 @@ Note: Missing values exist in some variables; however, all 2,938 records were re
 
 
 
+# Report Pages
+1. 🌐 Global Life Expectancy.
+   
+This page provide a comprehensive understanding of global life expectancy patterns, identify countries with the highest and lowest longevity, examine how life expectancy has changed over time, assess the influence of economic development, and highlight disparities between developed and developing nations. Together, they establish a foundation for understanding global health outcomes.
 
+![image](Global_Life_Expectancy_(Page1).png)
+
+Key Visuals:
+- Top 10 Countries by Life Expectancy
+- Bottom 10 Countries by Life Expectancy
+- Life Expectancy Trend by Year
+- Life Expectancy by Developed and Developing Countries
+- GDP vs Life Expectancy
+- Global Map
 
 
 
@@ -232,24 +245,19 @@ Data types were validated before analysis.
 
 
 
-**Focus**:
-- Global life expectancy
-- Country comparison
-- Developed vs Developing countries
-- Geographic distribution of life expectancy.
 
 
 
-**Life Expectancy Trend by Year**
 
 
-![image](Life_Expectancy_Trend.png)
+
+
 
 Global life expectancy generally increased between 2000 and 2015, indicating improvements in healthcare access and living conditions.
 
 
 
-**Top 10 Countries by Life Expectancy**
+****
 
 ![image](Top_10_Countries_with_High_Life_Expectancy.png) 
 
@@ -261,7 +269,7 @@ Japan, Sweden, and other top-performing countries consistently recorded the high
 
 
 
-**Bottom 10 Countries by Life Expectancy**
+**
 
 
 ![image](Countries_with_Low_Life_Expectancy.png)
@@ -282,7 +290,7 @@ Developed countries achieved an average life expectancy of 79 years, exceeding d
 
 
 
-**GDP vs Life Expectancy**
+****
 
 
 ![image](Countries_GDP_Vs_Life_Expectancy.png)
@@ -290,7 +298,7 @@ Developed countries achieved an average life expectancy of 79 years, exceeding d
 Countries with higher GDP generally tend to have higher life expectancy, although the wide variation across countries suggests that factors such as healthcare access, education, and disease burden also play an important role in determining longevity.
 
 
-**Global Map**
+****
 
 ![image](Geographic_Distribution_of_Life_Expectancy.png)
 
