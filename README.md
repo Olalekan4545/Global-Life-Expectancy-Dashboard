@@ -188,7 +188,16 @@ This page explores how healthcare investment, vaccination coverage, child surviv
 - Top 10 Thinnest Nations
 
 ## Data Sources
-
+The report is powered by a single Excel CSV file containing 1 sheets:
+<table>
+  <tr>
+    <th>Sheet</th>
+   <th>Key Fields</th>
+    <tr>
+    <th>Life Expectancy Data</th>
+    <th>Time Period,Country,Year,Status (Developed/Developing),Life Expectancy,Adult Mortality,Infant Deaths,Alcohol Consumption,Percentage Expenditure,Hepatitis B, Measles, BMI,Under-Five Deaths,Polio,Total Expenditure,Diphtheria,HIV/AIDS,GDP,Population,Thinness (1–19 Years),Thinness (5–9 Years),Income Composition of Resources,Schooling</th>
+      </tr>
+</table>
 
 
 
@@ -229,29 +238,7 @@ Provide data-driven insights into global health inequalities.
 
 
 ## Dataset Information
-- **Time Period**: 2000–2015
-- Country
-- Year
-- Status (Developed/Developing)
-- Life Expectancy
-- Adult Mortality
-- Infant Deaths
-- Alcohol Consumption
-- Percentage Expenditure
-- Hepatitis B
-- Measles
-- BMI
-- Under-Five Deaths
-- Polio
-- Total Expenditure
-- Diphtheria
-- HIV/AIDS
-- GDP
-- Population
-- Thinness (1–19 Years)
-- Thinness (5–9 Years)
-- Income Composition of Resources
-- Schooling
+
 
 ## Data Cleaning
 The dataset contained missing values across several variables, including GDP, Life Expectancy,Population, Hepatitis B, Schooling, and Total Expenditure.
