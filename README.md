@@ -161,8 +161,19 @@ Key Visuals:
 - GDP vs Life Expectancy
 - Global Map
 
+2. 🔍 Drivers of Life Expectancy
+This page investigates the key health, educational, and economic factors that influence life expectancy across countries.
 
+![image](
 
+Key Visuals:
+- Schooling vs Life Expectancy
+- HIv/Aids vs Life Expectancy
+- Alcholic vs Life Expectancy
+- Adult Mortality vs Life Expectancy
+- Measles vs Life Expectancy
+- Income of Composition vs Life Expectancy
+- Conntries GDp vs Life Expectancy
 
 
 
@@ -324,7 +335,6 @@ Socioeconomic and health-related factors associated with longevity
 **Visuals**
 
 
-**Schooling vs Life Expectancy**
 
 
 ![image](Schooling_vs_Life_Expectancy.png)
