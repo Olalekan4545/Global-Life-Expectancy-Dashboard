@@ -38,8 +38,12 @@ Life expectancy is one of the most important indicators of a nation's health and
 
 <table>
   <tr>
-    <th>Report Info</th>
-    <th>Values</th>
+    <th>Dataset Information</th>
+    <th>Value</th>
+   </tr>
+  <tr>
+    <td>Source</td>
+    <td>WHO Life Expectancy Dataset</td>
   </tr>
   <tr>
     <td>Tool</td>
@@ -47,7 +51,7 @@ Life expectancy is one of the most important indicators of a nation's health and
   </tr>
   <tr>
     <td>Total Records</td>
-    <td>2938</td>
+    <td>2,938</td>
    </tr>
   <tr>
     <td>No of Countries</td>
@@ -58,8 +62,18 @@ Life expectancy is one of the most important indicators of a nation's health and
     <td>2000 - 2015</td>
    </tr>
   <tr>
+    <td>Missing Values</td>
+    <td>Present</td>
+      </tr>
+   </tr>
+  <tr>
     <td>Report Pages</td>
     <td>3</td>
+      </tr>
+   </tr>
+  <tr>
+    <td>Data Cleanning Approach</td>
+    <td>Null Values Retained</td>
       </tr>
   <tr>
     <td>Live Report</td>
