@@ -199,6 +199,61 @@ The report is powered by a single Excel CSV file containing 1 sheets:
       </tr>
 </table>
 
+## Key Metrics
+<table>
+  <tr>
+    <th>KPIs</th>
+   <th>Values</th>
+   <tr>
+    <th>Avg Life Expectancy</th>
+   <th>69.22</th>
+    <tr>
+    <th>Min life expectancy</th>
+   <th>36.30</th>
+     <tr>
+    <th>MAX life expectancy</th>
+   <th>89</th>
+    <tr>
+    <th>Life expectancy Growth</th>
+   <th>52.70</th>
+    <tr>
+    <th>Avg Adult Mortality</th>
+   <th>164.80</th>
+    <tr>
+    <th>Avg Scholling</th>
+   <th>11.99</th>
+     <tr>
+    <th>Avg GDP</th>
+   <th>7.48k</th>
+    <tr>
+    <th>Avg Hiv/Aids</th>
+   <th>1.74</th>
+    <tr>
+    <th>Avg Total Expenditure</th>
+   <th>5.94</th>
+    <tr>
+    <th>Health Expenditure</th>
+   <th>738.25</th>
+    <tr>
+    <th>Avg infact dealth</th>
+   <th>30.30</th>
+    <tr>
+    <th>Avg Under five dealth</th>
+   <th>42.04</th>
+     </tr>
+</table>
+
+
+
+
+
+
+
+
+ 
+
+
+
 
 
 
