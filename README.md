@@ -36,6 +36,37 @@ Life expectancy is one of the most important indicators of a nation's health and
 # Overview
 **The Life Expectancy Report** is an interactive Power BI dashboard that examines how factors such as economic development, education, healthcare investment, disease burden, vaccination coverage, and child health influence longevity across countries.
 
+<table>
+  <tr>
+    <th>Report Info</th>
+    <th>Values</th>
+  </tr>
+  <tr>
+    <td>Tool</td>
+    <td>Microsoft PowerBi</td>
+  </tr>
+  <tr>
+    <td>Total Records</td>
+    <td>2938</td>
+   </tr>
+  <tr>
+    <td>No of Countries</td>
+    <td>193</td>
+    </tr>
+  <tr>
+    <td>Date Range</td>
+    <td>2000 - 2015</td>
+   </tr>
+  <tr>
+    <td>Report Pages</td>
+    <td>3</td>
+      </tr>
+  <tr>
+    <td>Live Report</td>
+     <td><a href="https://app.powerbi.com/view?r=eyJrIjoiZDQxNmE3N2ItMzM2Yi00MmFiLWE3NzktYTQ3ZWYzYjBmNWYzIiwidCI6ImUwYjEzY2QwLTY1MjItNDFmNS05MjFlLTg5OGRmMTBkZGIzMiJ9">View Live Dashboard</a></td>
+    </tr>
+</table>
+
 
 
 
