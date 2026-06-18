@@ -164,7 +164,7 @@ Key Visuals:
 2. 🔍 Drivers of Life Expectancy
 This page investigates the key health, educational, and economic factors that influence life expectancy across countries.
 
-![image](
+![image](Drivers_of_Life_Expectancy.png)
 
 Key Visuals:
 - Schooling vs Life Expectancy
@@ -174,6 +174,18 @@ Key Visuals:
 - Measles vs Life Expectancy
 - Income of Composition vs Life Expectancy
 - Conntries GDp vs Life Expectancy
+
+3. 🥇 ❤️‍🩹  Health Investment & Child Nutrition
+This page explores how healthcare investment, vaccination coverage, child survival, and nutritional health influence life expectancy and overall population well-being across countries.
+![image](Health_Investment_and_Child_Nutrition_(page3).png)
+
+Key Visuals:
+- Vaccination Coverage Trends
+- BMI by Status
+- Vaccination Coverage Comparison by Developed and Developing Nations
+- Health Expenditure vs Life Expectancy
+- Infact Dealths vs Life Expectancy
+- Top 10 Thinnest Nations
 
 
 
@@ -374,7 +386,7 @@ The scatter chart reveals a strong negative relationship between HIV/AIDS and li
 Income Composition of Resources appears to be a strong predictor of life expectancy. Countries with higher resource development and stronger socioeconomic conditions generally achieve longer and more stable lifespans, while countries with lower levels of resource development tend to experience lower life expectancy and greater health challenges.
 
 
-**Page 3: Health Investment & Child Nutrition**
+**Page 3:**
 
 
 
