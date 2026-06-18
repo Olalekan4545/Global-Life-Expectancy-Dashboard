@@ -81,6 +81,86 @@ Life expectancy is one of the most important indicators of a nation's health and
     </tr>
 </table>
 
+ ## Data Quality Summary
+
+<table>
+  <tr>
+    <th>Column</th>
+    <th>Missing Value</th>
+   </tr>
+  <tr>
+    <td>Population</td>
+    <td>652</td>
+  </tr>
+    <tr>
+    <td>Hepatitis B</td>
+   <td>553</td>
+     </tr>
+  <tr>
+    <td>GDP</td>
+    <td>448</td>
+     </tr>
+  <tr>
+    <td>Total Expenditure</td>
+    <td>226</td>
+    </tr>
+  <tr>
+    <td>Alcohol</td>
+    <td>194</td>
+    </tr>
+  <tr>
+    <td>Schooling</td>
+    <td>163</td>
+       </tr>
+  <tr>
+    <td>Thinness 1–19 Years</td>
+    <td>34</td>
+   </tr>
+  <tr>
+    <td>Thinness 5–9 Years</td>
+    <td>34</td>
+      </tr>
+  <tr>
+    <td>BMI</td>
+    <td>34</td>
+       </tr>
+  <tr>
+    <td>Polio</td>
+    <td>19</td>
+      </tr>
+  <tr>
+    <td>Diphtheria</td>
+    <td>19</td>
+      </tr>
+  <tr>
+    <td>Adult Mortality</td>
+    <td>10</td>
+     </tr>
+  <tr>
+    <td>Life Expectancy</td>
+    <td>10</td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
