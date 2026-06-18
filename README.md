@@ -142,7 +142,7 @@ Life expectancy is one of the most important indicators of a nation's health and
   </tr>
 </table>
 
-
+Note: Missing values exist in some variables; however, all 2,938 records were retained, and analyses were based on available non-null observations.
 
 
 
