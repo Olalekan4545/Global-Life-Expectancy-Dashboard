@@ -10,7 +10,9 @@ Life expectancy is one of the most important indicators of a nation's health and
       <td><a href="https://app.powerbi.com/view?r=eyJrIjoiZDQxNmE3N2ItMzM2Yi00MmFiLWE3NzktYTQ3ZWYzYjBmNWYzIiwidCI6ImUwYjEzY2QwLTY1MjItNDFmNS05MjFlLTg5OGRmMTBkZGIzMiJ9">View Live Dashboard</a></td>   |      </tr>
     <tr>
       <td>📃</td>
-      <td><a href="https://drive.google.com/file/d/1WgS58LyHl22u_3CLZQ4s-1X9JIAuwH5A/view?usp=sharing">Dataset</a></td> |       <tr>
+      <td><a href="https://drive.google.com/file/d/1WgS58LyHl22u_3CLZQ4s-1X9JIAuwH5A/view?usp=sharing">Dataset</a></td> |   <tr>
+      <td>📖</td>
+      <td><a href="https://medium.com/@afolakemiayomiposi/global-life-expectancy-8d2edfb0b976">Dataset Medium Article</a></td> |    <tr>
       <td>👤</td>
       <td><a href="https://linkedin.com/in/afolakemi-olalekan-145174253">Linkdin Profile</a></td>   |   </tr>
     <tr>
